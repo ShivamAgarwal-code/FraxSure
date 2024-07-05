@@ -6,9 +6,6 @@
 2. FXTL, as a coin, played a pivotal role in shaping the concept of FXTLSure. Its stability and peg to a value of 1 USD made it an ideal candidate to serve as the primary currency within the insurance ecosystem. Leveraging FXTL tokens allowed us to offer users the ability to lock their tokens, earning them valuable discounts on insurance premiums. Additionally, enabling customers to purchase insurance premiums in the form of NFTs using FXTL further enhanced the platform's versatility and ease of use.
 3. FXTLSure stands out with its inflation-protected insurance coverage. By using the stability of FXTL tokens, and incorporating truflation data, we ensure policyholders' purchasing power is safeguarded against inflation's impact. This combination of FXTL and truflation sets FXTLSure apart, providing customers with peace of mind and reliable financial security.
 
-## Model:
-<img width="1676" alt="Screenshot 2023-07-18 at 12 10 38 PM" src="https://github.com/Dwaipayan25/FXTLSurance/assets/91361409/76c3bb2b-6418-4604-8d1a-11de2a8ed988">
-
 
 ### **Here are the key points highlighting what FXTLSure does**
 
