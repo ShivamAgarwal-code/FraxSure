@@ -22,7 +22,7 @@ const CryptoFaucet = ({account,FRAX}) => {
       <h2 className="mb-4">FRAX Faucet</h2>
       <p>This is only for testing purpose, it doesnot provide real FRAX coins</p>
       <h5>Add this token contract on goerli Testnet to your wallet: </h5>
-        <h3>0x4cAab96b2E442E78cA5fc72FaEd2305dE115FB36</h3>
+        <h3>0x3D791a047B300f67a121D6D010e92038C3CaabEA</h3>
         <hr/>
       <Form.Group className="mb-3">
         <Form.Label><h3>Enter Amount:</h3></Form.Label>

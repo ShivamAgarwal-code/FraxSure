@@ -18,7 +18,7 @@ const Home = () => {
           <Row>
             <Col>
               <div className="text-center">
-                <h2>FraxSurance: Revolutionizing Insurance with FRAX and Inflation Protection"</h2>
+                <h2>FraxSure: Revolutionizing Insurance with FRAX and Inflation Protection"</h2>
                 <p>Secure Your Future with FRAX-Backed Insurance: Shielded from Inflation, Covered for Life!</p>
               </div>
             </Col>
@@ -106,7 +106,7 @@ const Home = () => {
       
     </Container>
     <footer style={{ backgroundColor: "grey", color: "white", padding: "20px" }}>
-    © 2023 FraxSurance. All rights reserved. Privacy Policy | Terms of Service
+    © 2024 FraxSure. All rights reserved. Privacy Policy | Terms of Service
     </footer>
     </div>
   );

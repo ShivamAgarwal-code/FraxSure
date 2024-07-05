@@ -11,13 +11,13 @@ contract NFT is ERC721URIStorage {
     uint256 public units = 10**18;
     address public owner;
     constructor() ERC721("INSURANCE NFT","INFT") {
-        token=IERC20(0x4cAab96b2E442E78cA5fc72FaEd2305dE115FB36);
+        token=IERC20(0x3D791a047B300f67a121D6D010e92038C3CaabEA);
         owner=msg.sender;
     }
 
     function mint(string memory _tokenURI,uint256 price) external returns(uint){
         //->Approve from fraxTest by calling approve() keeping _spender as contract address and amount as price
-        bool x = token.transferFrom(msg.sender,owner,price*units);
+        // bool x = token.transferFrom(msg.sender,owner,price*units);
         tokenCount++;
         _safeMint(msg.sender, tokenCount);
         _setTokenURI(tokenCount, _tokenURI);

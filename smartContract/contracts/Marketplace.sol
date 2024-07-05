@@ -15,7 +15,7 @@ contract Marketplace is ReentrancyGuard{
 
     constructor(){
         feeAccount = payable(msg.sender);
-        token=IERC20(0x4cAab96b2E442E78cA5fc72FaEd2305dE115FB36);
+        token=IERC20(0x3D791a047B300f67a121D6D010e92038C3CaabEA);
     }
 
     event Offered(uint itemId,address indexed nft,uint tokenId,uint price,address indexed seller);
